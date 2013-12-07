@@ -6,4 +6,3 @@ before_install:
     - gem update
     - gem install rake
     - gem install selenium-webdriver
-    - phantomjs
